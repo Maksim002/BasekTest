@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BasekTest</string>
+    <string name="question_title"><b>%d)</b> %s</string>
+</resources>
